@@ -1,0 +1,92 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2592,
+    "time": 1751765752,
+    "hash": "0b12f62f3408a0847d6015d48316cfcdfbf3a86b"
+  },
+  ".hoa/worktree.json": {
+    "size": 2604,
+    "time": 1751764386,
+    "hash": "30a11588aaf4004d9783bae841f9b9e5bfb7b94a"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1730214395,
+    "hash": "5509005f622748c3962861997cd1a398fbf5454a"
+  },
+  "README.md": {
+    "size": 5886,
+    "time": 1735981632,
+    "hash": "74441ea6db7feee8590f6a8c67cc4a9de2731ef3"
+  },
+  "assignments/2023/homework.ipynb": {
+    "size": 934995,
+    "time": 1730268534,
+    "hash": "3d4a6bd3dec7305ec708636401269b51198dd4b1"
+  },
+  "assignments/2023/函数近似部分编程作业.pdf": {
+    "size": 233626,
+    "time": 1730268534,
+    "hash": "3d4a6bd3dec7305ec708636401269b51198dd4b1"
+  },
+  "assignments/2023/数值分析作业 .docx": {
+    "size": 14180,
+    "time": 1730268534,
+    "hash": "3d4a6bd3dec7305ec708636401269b51198dd4b1"
+  },
+  "assignments/2023/编程作业代码及md源文件.zip": {
+    "size": 1326936,
+    "time": 1730268534,
+    "hash": "3d4a6bd3dec7305ec708636401269b51198dd4b1"
+  },
+  "assignments/2023/编程作业参考.docx": {
+    "size": 1277084,
+    "time": 1730268534,
+    "hash": "3d4a6bd3dec7305ec708636401269b51198dd4b1"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1730214395,
+    "hash": "5509005f622748c3962861997cd1a398fbf5454a"
+  },
+  "exams/2023-LL-数值分析极速复习指南.docx": {
+    "size": 911011,
+    "time": 1735981632,
+    "hash": "74441ea6db7feee8590f6a8c67cc4a9de2731ef3"
+  },
+  "exams/2024 数值分析试题回忆版(V1.0).pdf": {
+    "size": 220253,
+    "time": 1735981632,
+    "hash": "74441ea6db7feee8590f6a8c67cc4a9de2731ef3"
+  },
+  "exams/2024 数值分析试题回忆版(V1.0)参考答案.docx": {
+    "size": 953434,
+    "time": 1735981632,
+    "hash": "74441ea6db7feee8590f6a8c67cc4a9de2731ef3"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1730214395,
+    "hash": "5509005f622748c3962861997cd1a398fbf5454a"
+  },
+  "exams/[网盘计划]本部数值分析试题00-22.pdf": {
+    "size": 77902514,
+    "time": 1735981632,
+    "hash": "74441ea6db7feee8590f6a8c67cc4a9de2731ef3"
+  },
+  "exams/年份未知-数值分析考试试卷.docx": {
+    "size": 1415230,
+    "time": 1735981632,
+    "hash": "74441ea6db7feee8590f6a8c67cc4a9de2731ef3"
+  },
+  "notes/README.md": {
+    "size": 42,
+    "time": 1730214395,
+    "hash": "5509005f622748c3962861997cd1a398fbf5454a"
+  },
+  "tag.txt": {
+    "size": 89,
+    "time": 1735981632,
+    "hash": "74441ea6db7feee8590f6a8c67cc4a9de2731ef3"
+  }
+}

@@ -1,0 +1,13 @@
+GroupCourse:
+  Link: ""
+  Desc: ""
+  Name: ""
+  Ids: ["", "", ""]
+GradeComposition:
+  - Name: 出勤
+    Percentage: 10
+  - Name: 课堂测验及作业
+    Percentage: 20
+  - Name: 期末考试
+    Percentage: 70
+CourseHourComposition: []

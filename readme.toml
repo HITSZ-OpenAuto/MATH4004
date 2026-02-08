@@ -20,7 +20,8 @@ content = """
 """
 author = [
   { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2025-01" },
-  { name = "Hye", link = "", date = "2025-01" }]
+  { name = "Hye", link = "", date = "2025-01" },
+]
 
 [[lecturers]]
 name = "张茜"
@@ -71,7 +72,8 @@ content = """
 """
 author = [
   { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2025-01" },
-  { name = "Hye", link = "", date = "2025-01" }]
+  { name = "Hye", link = "", date = "2025-01" },
+]
 
 
 [[sections]]

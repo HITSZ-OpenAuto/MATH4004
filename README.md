@@ -12,6 +12,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 焦震钧
   <!-- TOML-ITEM: id="review-焦震钧-1" author_type="list" -->
   - 本研共选课（面向保研学生开设，一般开设于秋季学期 10-17 周）。

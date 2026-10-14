@@ -1,0 +1,102 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814420,
+    "hash": "91b2b175feb720095b13e32edcb1171313b1db61"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1730214395,
+    "hash": "5509005f622748c3962861997cd1a398fbf5454a"
+  },
+  "README.md": {
+    "size": 5639,
+    "time": 1791961385,
+    "hash": "bbb320f97a4f7fc14a0e5d933e86448ca3bb15f6"
+  },
+  "assignments/2023/homework.ipynb": {
+    "size": 934995,
+    "time": 1730268534,
+    "hash": "3d4a6bd3dec7305ec708636401269b51198dd4b1"
+  },
+  "assignments/2023/函数近似部分编程作业.pdf": {
+    "size": 233626,
+    "time": 1730268534,
+    "hash": "3d4a6bd3dec7305ec708636401269b51198dd4b1"
+  },
+  "assignments/2023/数值分析作业 .docx": {
+    "size": 14180,
+    "time": 1730268534,
+    "hash": "3d4a6bd3dec7305ec708636401269b51198dd4b1"
+  },
+  "assignments/2023/编程作业代码及md源文件.zip": {
+    "size": 1326936,
+    "time": 1730268534,
+    "hash": "3d4a6bd3dec7305ec708636401269b51198dd4b1"
+  },
+  "assignments/2023/编程作业参考.docx": {
+    "size": 1277084,
+    "time": 1730268534,
+    "hash": "3d4a6bd3dec7305ec708636401269b51198dd4b1"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1730214395,
+    "hash": "5509005f622748c3962861997cd1a398fbf5454a"
+  },
+  "exams/2023-LL-数值分析极速复习指南.docx": {
+    "size": 911011,
+    "time": 1735981632,
+    "hash": "74441ea6db7feee8590f6a8c67cc4a9de2731ef3"
+  },
+  "exams/2024 数值分析试题回忆版(V1.0).pdf": {
+    "size": 220253,
+    "time": 1735981632,
+    "hash": "74441ea6db7feee8590f6a8c67cc4a9de2731ef3"
+  },
+  "exams/2024 数值分析试题回忆版(V1.0)参考答案.docx": {
+    "size": 953434,
+    "time": 1735981632,
+    "hash": "74441ea6db7feee8590f6a8c67cc4a9de2731ef3"
+  },
+  "exams/2025 数值分析试题回忆版.docx": {
+    "size": 15270,
+    "time": 1763986146,
+    "hash": "b687024288402146641a53e298feb42f4cb38735"
+  },
+  "exams/2025-本部-数值分析 B 知识点回忆版试题.pdf": {
+    "size": 71019,
+    "time": 1762851134,
+    "hash": "d743c876d017d0a9088a51cee9d103424b1d5aef"
+  },
+  "exams/2025秋数值分析（本研共通）期末试题（回忆版）.pdf": {
+    "size": 280715,
+    "time": 1768398574,
+    "hash": "de828cf4e3dd7b469922f3c84d6dd66ac0a80181"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1730214395,
+    "hash": "5509005f622748c3962861997cd1a398fbf5454a"
+  },
+  "exams/[网盘计划]本部数值分析试题00-22.pdf": {
+    "size": 77902514,
+    "time": 1735981632,
+    "hash": "74441ea6db7feee8590f6a8c67cc4a9de2731ef3"
+  },
+  "exams/年份未知-数值分析考试试卷.docx": {
+    "size": 1415230,
+    "time": 1735981632,
+    "hash": "74441ea6db7feee8590f6a8c67cc4a9de2731ef3"
+  },
+  "notes/README.md": {
+    "size": 42,
+    "time": 1730214395,
+    "hash": "5509005f622748c3962861997cd1a398fbf5454a"
+  },
+  "readme.toml": {
+    "size": 5671,
+    "time": 1785345823,
+    "hash": "e3d5055b2de9fa0d6ffc8841694fed65f2bf97e1"
+  }
+}
